@@ -4,6 +4,8 @@ Here's your README file with improved formatting and markdown:
 
 Welcome to Esase Wear, your ultimate destination for all your fashion needs. This README file provides an overview of the features and functionalities of our e-commerce platform.
 
+## You can use the site via the link : https://dazzling-entremet-f56f43.netlify.app
+
 
 ![screencapture-127-0-0-1-5503-index-html-2024-04-14-17_14_57](https://github.com/esraashabana/JS-Project/assets/121031158/7c2b331a-4829-4dcf-b0ef-872e56875f38)
 
